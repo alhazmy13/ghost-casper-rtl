@@ -693,6 +693,7 @@ make sure this only happens on large viewports / desktop-ish devices.
     font-size: 1.4rem;
     font-weight: 600;
     text-transform: uppercase;
+    margin-bottom: 10px;
 }
 
 .post-full-meta-date {
