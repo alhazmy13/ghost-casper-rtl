@@ -1660,7 +1660,7 @@ Usage (In Ghost editor):
 
 .floating-header-logo {
     overflow: hidden;
-    margin: 0 0 0 20px;
+    margin: 0 20px 0 0;
     font-size: 1.6rem;
     line-height: 1em;
     letter-spacing: -1px;
